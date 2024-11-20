@@ -1,6 +1,6 @@
 # Snipe.nvim
 
-Test 2 Efficient targetted menu built for fast buffer navigation
+Efficient targetted menu built for fast buffer navigation
 
 
 
